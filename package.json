@@ -1,0 +1,19 @@
+{
+  "name": "bookripper",
+  "version": "1.0.0",
+  "description": "A tool for converting info from books into a programmatic format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTMcDuff/bookripper.git"
+  },
+  "author": "Johnny T. McDuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTMcDuff/bookripper/issues"
+  },
+  "homepage": "https://github.com/JTMcDuff/bookripper#readme"
+}
